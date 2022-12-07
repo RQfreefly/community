@@ -21,7 +21,6 @@ public class HomeController {
 
     @Autowired
     private DiscussPostService discussPostService;
-    int a = 1;
 
     @Autowired
     private UserService userService;
